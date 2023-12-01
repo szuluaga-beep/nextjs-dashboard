@@ -4,6 +4,8 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
+[Visit DEMO](https://nextjs-dashboard-git-master-trebolcrm.vercel.app/)
+
 ![image](https://github.com/szuluaga-beep/nextjs-dashboard/assets/69664305/83dc8782-af90-4d1a-8dfc-66e0dd57bd48)
 
 # Features
@@ -14,9 +16,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** Next JS, Next Auth, TailwindCSS
 
-**Server:** Node, Express
+**Back:** Postgres, PostgreSQL
 
 ## Credentials
 
